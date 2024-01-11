@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Issabwalya
-- 👀 I’m interested in ...coding,databases, data science 
+- 👀 I’m interested in ...FX Trading,React Developer,Database Management,Software Engineering 
 - 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...coding,data science, application development,software engineering 
+- 💞️ I’m looking to collaborate on ... Analysing the fx market with tech tools, React projects, application development,software engineering 
 - 📫 How to reach me ...isabwalya98@gmail.com or Facebook at Bwalya Issa
 
 <!---
